@@ -10,7 +10,7 @@ The other option is to click the green "clone or download" button and then click
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
 
-#Description
+## Description
 
 I have used Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
